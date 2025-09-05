@@ -6,10 +6,15 @@ Welcome to my GitHub profile! I’m passionate about **software development, pro
 
 ## 🛠️ Tech & Tools  
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)  
+![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)  
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)  
+![React Native](https://img.shields.io/badge/Mobile-React%20Native-61DAFB?logo=react)  
+![Flutter](https://img.shields.io/badge/Mobile-Flutter-02569B?logo=flutter)  
+![Next.js](https://img.shields.io/badge/Framework-Next.js-black?logo=nextdotjs)  
+![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow%2FPyTorch-orange?logo=tensorflow)  
 ![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)  
-![Linux](https://img.shields.io/badge/OS-Linux-gray?logo=linux)  
 
 ---
 
@@ -17,18 +22,7 @@ Welcome to my GitHub profile! I’m passionate about **software development, pro
 - 📌 Based in Rwanda 🇷🇼  
 - 🎓 Final year student preparing for **national exams**  
 - 🏐 Volleyball enthusiast + fitness & discipline mindset  
-- 💡 Curious mind: always exploring new ideas in **apps, math, and tech**  
-
----
-
-## 📊 GitHub Stats  
-![Manzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
----
-
-## 🐍 Contributions Snake  
-![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)  
+- 💡 Curious mind: always exploring new ideas in **apps, math, and tech**   
 
 ---
 
