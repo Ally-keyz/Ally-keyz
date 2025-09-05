@@ -1,43 +1,45 @@
 # 👋 Hi, I’m Manzi Alpe  
 
 Welcome to my GitHub profile! I’m passionate about **software development, problem solving, and continuous learning**.  
-Currently, I’m sharpening my skills in areas like:  
-- ⚡ **Web & App Development** (Node.js, React, and related stacks)  
-- 📊 **Mathematics & Data** (Calculus, Statistics, and their applications in coding)  
-- 🤖 **AI & Machine Learning** (curious exploration, creative applications)  
-- 🛠️ **Practical Tech** (deployments, debugging, and real-world use cases)  
+
+---
+
+## 🛠️ Tech & Tools  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)  
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)  
+![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)  
+![Linux](https://img.shields.io/badge/OS-Linux-gray?logo=linux)  
 
 ---
 
 ## 🌍 About Me  
 - 📌 Based in Rwanda 🇷🇼  
-- 🎓 Preparing for my final year **national exams** while diving deeper into tech  
-- 🏐 Interested in **sports & wellness** (volleyball, rope skipping, fitness discipline)  
-- ✨ Big believer in self-improvement: discipline, focus, and creativity drive my growth  
+- 🎓 Final year student preparing for **national exams**  
+- 🏐 Volleyball enthusiast + fitness & discipline mindset  
+- 💡 Curious mind: always exploring new ideas in **apps, math, and tech**  
 
 ---
 
-## 🚀 Projects & Ideas  
-I enjoy thinking up and building practical apps. Some of my favorite concepts include:  
-- 🛒 **Simple e-commerce apps** (user-friendly, animated dashboards, creative catalog features)  
-- 📱 **Personal apps** like *MKevine* (focused on clarity and accessibility)  
-- 🔍 **Problem-solving experiments** (deployments, automation, real-world fixes)  
+## 📊 GitHub Stats  
+![Manzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
 ---
 
-## 📚 Currently Learning  
-- Advanced **JavaScript/Node.js** concepts  
-- Deployment workflows (GitHub → servers)  
-- Stronger mathematical foundations to connect coding with real problem solving  
-- How physics and software development can align at a **TVET level**  
+## 🐍 Contributions Snake  
+![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
-## 💡 Fun Facts  
-- I’m always brainstorming new ideas 💭  
-- I like exploring **design & UI color choices** to make apps feel unique  
-- I have an interest in **global opportunities** (like Turing, job applications abroad, and study tracks)  
-- I enjoy asking “what if” questions that mix creativity, tech, and science  
+## 💬 Quote of the Day  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+## 📫 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Gmail](https://img.shields.io/badge/Email-Gmail-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
 ---
 
