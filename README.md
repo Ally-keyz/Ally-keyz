@@ -26,11 +26,6 @@ Welcome to my GitHub profile! I’m passionate about **software development, pro
 
 ---
 
-## 💬 Quote of the Day  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
 ## 📫 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Gmail](https://img.shields.io/badge/Email-Gmail-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
